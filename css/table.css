@@ -1,0 +1,25 @@
+table {
+    border: black 1px solid;
+    width: 100%;
+}
+
+td {
+    border: black 1px solid;
+}
+
+tr {
+    height: 50px;
+}
+
+.body {
+    height: 500px;
+}
+
+.nav {
+    width: 15%;
+}
+
+.shapka,
+.footer {
+    background-color: rgb(162, 3, 72);
+}

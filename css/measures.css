@@ -1,0 +1,26 @@
+.pix {
+    border: darkblue solid 1px;
+    width: 500px;
+}
+
+.percent {
+    border: darkblue solid 1px;
+    width: 50%;
+}
+
+.vw {
+    border: darkblue solid 1px;
+    width: 50vw;
+}
+
+.v {
+    background-color: blanchedalmond;
+    width: 50vw;
+    height: 20px;
+}
+
+.v2 {
+    background-color: red;
+    width: 50vw;
+    height: 20px;
+}
