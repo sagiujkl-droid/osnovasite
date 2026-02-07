@@ -24,3 +24,15 @@
     width: 50vw;
     height: 20px;
 }
+
+.per {
+    background-color: blanchedalmond;
+    width: 50%;
+    height: 20px;
+}
+
+.per2 {
+    background-color: red;
+    width: 50%;
+    height: 20px;
+}
